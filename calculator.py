@@ -1,0 +1,13 @@
+print("Welcome To My Calculator")
+a=float(input("Enter any number of your choice----> "))
+b=float(input("Please enter another number----> "))
+c=a+b
+print("The result of Addition is ",a+b)
+print("The result of Subtraction is ",a-b)
+print("The result of Division is ",a/b)
+print("The result of Multiplication is ",a*b)
+print("The result of Exponent operation by taking a as base is ",a**b)
+print("The result of Floor division is ",a//b)
+print("The result of Modulo operation is ",a%b)
+print("This brings us to end thank you for your coperation")
+print("For using more than than 2 numbers use a calculator")
